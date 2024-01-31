@@ -12,7 +12,7 @@ function Serachbar() {
                     className="text-f_text  text-sm p-1 pr-5 bg-m_black w-full outline-none"
                 />
                 <div className="cursor-pointer  absolute right-4 pl-2">
-                    <img src={search} alt="" className="w-4" />
+                    <img src={search} alt="" className="w-5" />
                 </div>
             </div>
         </>

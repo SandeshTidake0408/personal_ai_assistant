@@ -15,7 +15,7 @@ function InputBar() {
                         placeholder="What do you want to know ......"
                         name=""
                         id=""
-                        className="text-f_text pr-5 bg-m_black w-full outline-none text-sm"
+                        className="text-f_text pr-5 bg-m_black w-full outline-none "
                     />
                     <div className="cursor-pointer  absolute right-4 pl-2">
                         <img src={send} alt="" className="w-5" />
