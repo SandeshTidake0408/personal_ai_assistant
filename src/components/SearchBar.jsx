@@ -9,13 +9,11 @@ function Serachbar() {
                     placeholder="Search..."
                     name=""
                     id=""
-                    className="text-f_text pr-5 bg-m_black w-full outline-none"
+                    className="text-f_text  text-sm p-1 pr-5 bg-m_black w-full outline-none"
                 />
-                <img
-                    src={search}
-                    alt=""
-                    className="w-4 absolute right-4 cursor-pointer"
-                />
+                <div className="cursor-pointer  absolute right-4 pl-2">
+                    <img src={search} alt="" className="w-4" />
+                </div>
             </div>
         </>
     );
