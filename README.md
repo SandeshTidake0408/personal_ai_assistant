@@ -1,3 +1,13 @@
+#AI Personal Assistant Frontend
+Welcome to the AI Personal Assistant Frontend! 🎉
+
+This repository contains the code for the frontend of an AI personal assistant, crafted using React. The interface is designed with a sleek and modern black theme, providing an elegant and user-friendly experience.
+
+Features
+Dark Mode: A visually appealing black theme that’s easy on the eyes and perfect for late-night productivity.
+Responsive Design: Seamlessly adapts to different screen sizes, ensuring a consistent experience across all devices.
+Interactive UI: Smooth interactions and transitions for a dynamic user experience.
+Customizable Components: Modular and reusable React components for easy customization and extension.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
