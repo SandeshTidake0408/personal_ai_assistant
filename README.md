@@ -1,6 +1,5 @@
 #AI Personal Assistant Frontend
-Welcome to the AI Personal Assistant Frontend! 🎉
-
+Welcome to the AI Personal Assistant Frontend! 🎉 
 This repository contains the code for the frontend of an AI personal assistant, crafted using React. The interface is designed with a sleek and modern black theme, providing an elegant and user-friendly experience.
 
 Features
